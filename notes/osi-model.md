@@ -352,7 +352,7 @@ Query DNS information.
 
 ---
 
-# 🎯 What I Learned
+# What I Learned
 
 The biggest lesson from the OSI model is that network communication happens through multiple stages.
 
